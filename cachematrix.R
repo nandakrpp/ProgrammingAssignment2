@@ -22,7 +22,7 @@
 # [2,]    1 -0.5
 # 
 # Modified from cachematrix_1_1.R
-# Last modified: on 2015-01-23 at 21.22
+# Last modified: on 2015-01-24 at 09.17
 # 
 
 
